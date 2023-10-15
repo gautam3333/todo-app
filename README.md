@@ -11,4 +11,9 @@ The [Todo App](https://todo-app-38a88905-fce7.vercel.app/) is a web application 
 </ul>
 
 ### Installation & Usage
-
+<ol>
+    <li>Clone Repository git <code>clone git@github.com:gautam3333/todo-app.git</code></li>
+    <li>Go to the project directory <code>cd todo-app</code></li>
+    <li>Install dependencies <code>npm install</code></li>
+    <li>Start server <code>npm run dev</code></li>
+</ol>
